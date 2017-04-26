@@ -1,6 +1,6 @@
 # npmdoc-jsonpath-plus
 
-#### api documentation for  [jsonpath-plus (v0.16.0)](https://github.com/s3u/JSONPath)  [![npm package](https://img.shields.io/npm/v/npmdoc-jsonpath-plus.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jsonpath-plus) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jsonpath-plus.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jsonpath-plus)
+#### basic api documentation for  [jsonpath-plus (v0.16.0)](https://github.com/s3u/JSONPath)  [![npm package](https://img.shields.io/npm/v/npmdoc-jsonpath-plus.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jsonpath-plus) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jsonpath-plus.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jsonpath-plus)
 
 #### A JS implementation of JSONPath with some additional operators
 
@@ -93,7 +93,8 @@
         "start": "npm run browser-test",
         "test": "npm run lint && npm run nodeunit"
     },
-    "version": "0.16.0"
+    "version": "0.16.0",
+    "bin": {}
 }
 ```
 
